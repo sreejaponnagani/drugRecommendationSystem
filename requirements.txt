@@ -1,0 +1,9 @@
+streamlit==1.31.1
+SpeechRecognition==3.10.0
+transformers==4.39.3
+torch==2.2.2
+pandas==2.2.2
+scikit-learn==1.4.2
+torchaudio==2.2.2
+sentencepiece>=0.1.99
+protobuf<4  # Ensures compatibility with speechrecognition
